@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">SQLite</string>
+    <string name="SQLiteActivityLable">SQLite</string>
+    <string name="TextViewText">Hello world.SQLiteActivity</string>
+    <string name="firstButtonText">CreateDatabase</string>
+    <string name="secondButtonText">UpdateDatabase</string>
+	<string name="thirdButtonText">insert</string>
+	<string name="fourButtonText">update</string>
+	<string name="fiveButtonText">query</string>
+	<string name="sixButtonText">delete</string>
+</resources>

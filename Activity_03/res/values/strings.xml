@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Activity_03</string>
+    <string name="Activity03Name">Activity03</string>
+    <string name="ResultName">Result</string>
+    <string name="sysbol">乘以</string>
+    <string name="calculate">计算</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+
+</resources>

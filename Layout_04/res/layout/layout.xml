@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout 
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+        
+        <TextView 
+            android:text="red"
+            android:gravity="center_horizontal"
+            android:background="#aa0000"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+ 
+        <TextView 
+            android:text="green"
+            android:gravity="center_horizontal"
+            android:background="#00aa00"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+        
+        <TextView 
+            android:text="blue"
+            android:gravity="center_horizontal"
+            android:background="#0000aa"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+        
+        <TextView 
+            android:text="yellow"
+            android:gravity="center_horizontal"
+            android:background="#aaa000"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+        
+        <TextView 
+            android:text="row one"
+            android:textSize="15pt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#aa0000"
+            android:layout_weight="1"/>
+
+        <TextView 
+            android:text="row two"
+            android:textSize="15pt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#00aa00"
+            android:layout_weight="1"/>
+        <TextView 
+            android:text="row three"
+            android:textSize="15pt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#0000aa"
+            android:layout_weight="1"/>
+        <TextView 
+            android:text="row fore"
+            android:textSize="15pt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#aaaa00"
+            android:layout_weight="1"/>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1">
+        <TableLayout 
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+            
+            <TableRow >
+                <TextView 
+                    android:text="green"
+                    android:padding="3dip"
+                    android:background="#00aa00"
+                    />
+                <TextView 
+                    android:text="red"
+                    android:padding="3dip"
+                    android:background="#aa0000"
+                    />
+                   
+                <TextView 
+                    android:text="blue"
+                    android:padding="3dip"
+                    android:background="#0000aa"
+                    />
+                      
+                 <TextView 
+                    android:text="yellow"
+                    android:padding="3dip"
+                    android:background="#aaaa00"
+                    />      
+            </TableRow>
+            
+           
+            <TableRow 
+                 android:orientation="horizontal"
+                android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+            	android:layout_weight="1">
+            	<TextView 
+                	android:layout_width="fill_parent"
+                	android:layout_height="wrap_content"
+                	android:text="blank"
+                	android:padding="5dip"
+                	android:background="#0a0a0a"/>
+            </TableRow>
+            
+            <TableRow 
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+            	android:layout_weight="1">
+                <TextView 
+                    android:text="green"
+                    android:padding="3dip"
+                    android:background="#00aa00"
+                    />
+                <TextView 
+                    android:text="red"
+                    android:padding="3dip"
+                    android:background="#aa0000"
+                    />
+                   
+                <TextView 
+                    android:text="blue"
+                    android:padding="3dip"
+                    android:background="#0000aa"
+                    />
+                      
+                 <TextView 
+                    android:text="yellow"
+                    android:padding="3dip"
+                    android:background="#aaaa00"
+                    />      
+            </TableRow>
+        </TableLayout>
+              
+    </LinearLayout>
+
+</LinearLayout>

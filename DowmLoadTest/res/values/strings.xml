@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">DowmLoad</string>
+    <string name="DownLoadText">DownLoad</string>
+    <string name="firstButtonText">下载文本文件</string>
+    <string name="secondButtonText">下载MP3文件</string>
+
+</resources>

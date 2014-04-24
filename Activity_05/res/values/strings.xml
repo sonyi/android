@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Activity_05</string>
+    <string name="FirstActivityLable">FirstActivity</string>
+    <string name="FirstActivityTextViewText">Hello world.FirstActivity</string>
+	<string name="FirstActivityButtonText">启动第二个Activity</string>
+	<string name="SecondActivityLable">Activity</string>
+	<string name="SecondActivityButtonText">回到第一个Activity</string>
+	
+</resources>

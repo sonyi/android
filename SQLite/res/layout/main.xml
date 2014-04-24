@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/myTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextViewText" />
+    <Button 
+        android:id="@+id/firstButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/firstButtonText" />
+    <Button 
+        android:id="@+id/secondButton" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/secondButtonText" />
+    <Button 
+        android:id="@+id/thirdButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thirdButtonText" />
+    <Button 
+        android:id="@+id/foutButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fourButtonText" />
+    <Button 
+        android:id="@+id/fiveButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fiveButtonText" />
+    <Button 
+        android:id="@+id/sixButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sixButtonText" />
+    
+
+</LinearLayout>

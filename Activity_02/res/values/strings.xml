@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">The one Activity</string>
+    <string name="myIntroduce">"我是程序员，我喜欢编程。"</string>
+    <string name="nameActivityTwo">Activity two</string>
+    <string name="nameActivityThree">"第三个窗口"</string>
+
+</resources>

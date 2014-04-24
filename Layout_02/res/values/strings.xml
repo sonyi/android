@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Layout_02</string>
+    <string name="TableTextLable">TableText</string>
+    <string name="TextViewText">欢迎使用</string>
+
+</resources>

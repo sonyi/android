@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Activity_04</string>
+    <string name="FirstActivityName">FirstActivity</string>
+    <string name="FirstActivityTextViewOne">Hello world.FirstActivity</string>
+    <string name="FirstActivityButtonOne">启动第二个Activity</string>
+    <string name="SecondActivityName">SecondActivity</string>
+    <string name="SecondActivityTextViewOne">SecondActivity</string>
+    <string name="Exit">退出</string>
+    <string name="about">关于</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Activity_06</string>
+    <string name="FirstActivityLable">FirstActivity</string>
+    <string name="FirstActivityTextViewText">FirstActivity</string>
+    <string name="FirstActivityButtonText">FirstButton</string>
+    <string name="SecondActivityLable">SecondActivity</string>
+    <string name="SecondActivityTextViewText">SecondActivity</string>
+    <string name="SecondActivityButtonText">SecondButton</string>
+    <string name="ThirdActivityLable">ThirdActivity</string>
+    <string name="ThridActivityTextViewText">ThirdActivity</string>
+    <string name="ThirdActivityButoonText">ThirdButton</string>
+
+</resources>

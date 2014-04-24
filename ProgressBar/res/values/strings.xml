@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ProgressBarTest</string>
+    <string name="ProgressBarTestLable">ProgressBar</string>
+    <string name="TextViewText">Hello world.ProgressBar.</string>
+    <string name="ButtonText">begin</string>
+
+</resources>

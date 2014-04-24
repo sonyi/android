@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Layout_01</string>
+    <string name="LinearLayoutLable">LinearLayout</string>
+    <string name="firstTextViewText">第一行</string>
+    <string name="secondTextViewText">第二行</string>
+    
+
+</resources>

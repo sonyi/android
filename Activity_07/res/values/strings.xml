@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Activity_07</string>
+    <string name="RadioGroup">RadioGroup</string>
+    <string name="hello">Hello everybody</string>
+    <string name="female">female</string>
+	<string name="male">male</string>
+    <string name="run">run</string>
+    <string name="swim">swim</string>
+    <string name="read">read</string>
+</resources>
